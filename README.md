@@ -11,6 +11,7 @@ Belajar Memulai Dasar Pemrograman untuk Menjadi Pengembang Software(100%)
 Pengenalan ke logika pemograman (Programming logic 101) (100%)
 * Belajar gerbang logika
 * Belajar pengenalan dasar computational thinking
+  
 Belajar dasar git dengan github(38%)
 * Belajar tengan git dan github
 * Belajar dasar git
