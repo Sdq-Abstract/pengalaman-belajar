@@ -14,7 +14,7 @@ Pengenalan ke logika pemograman (Programming logic 101) (100%)
 * Belajar gerbang logika
 * Belajar pengenalan dasar computational thinking
   
-Belajar dasar git dengan github(44%)
+Belajar dasar git dengan github(50%)
 * Belajar tengan git dan github
 * Belajar dasar git
 * Praktek studi kasus pengalaman belajar
